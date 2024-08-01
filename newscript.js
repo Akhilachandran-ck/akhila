@@ -1,7 +1,7 @@
-console.log('My first code');
+console.log('MY SECOND CODE');
 // Variables
-var a=5
-console.log(a);
+var c=5
+console.log(c);
 let b=10;
 {
     var a=9;
