@@ -2,7 +2,7 @@ console.log('MY THIRD CODE');
 // Variables
 var c=5
 console.log(c);
-let b=10;
+let b=1;
 {
     var a=9;
     console.log(a)
