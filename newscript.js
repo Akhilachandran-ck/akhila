@@ -1,4 +1,4 @@
-console.log('MY SECOND CODE');
+console.log('MY THIRD CODE');
 // Variables
 var c=5
 console.log(c);
