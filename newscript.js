@@ -1,4 +1,4 @@
-console.log('MY THIRD CODE');
+console.log('MY fourth CODE');
 // Variables
 var c=5
 console.log(c);
@@ -10,7 +10,7 @@ let b=1;
 let car=new Object()
 car.name='Alto'
 car.colour='red'
-console.log(car);
+console.log(car2);
 function display(fname)
 {
 console.log('Welcome'+fname+' to function');
@@ -75,4 +75,16 @@ for( let i=0;i<10;i++)
         console.log(r);
         r++;
     } while (r<=10);
+let object1={fname:'ani',age:10}
+for (const k in object1) {
+   // if (Object.hasOwnProperty.call(object, key)) 
+       // const element = object[key];
+   console.log(k);
+        
+    }
+    //let object2={fname:'ani',age:10}
 
+for (const j of array) {
+    console.log(j);
+
+}
