@@ -1,25 +1,27 @@
+function array1()
 
-var array=[1,45,34,56,78];
-function checkprime(num)
 {
-for (let i = 2; i <num; i++)
+var arrr1=[11,56,9,91];
+console.log(arrr1[0]);
+var flag=0;
+for(let i=1; i<=arrr1[0]; i++)
 {
-if(num% i === 0)
+if (arrr1[0]%i == 0)
 {
-
-}
-}
-}
-    function detectprime(arr)
-    {
-if(checkprime)
-{
-    return true'
-}
-    else{
-        return false;
-    }
-}
-
     
-    console.log(detectprime([3,,5,7,9,11]));
+    flag++;
+
+}
+}
+if(flag==2)
+{
+    console.log("prime");
+
+}
+else
+{
+    console.log("not a prime");
+
+}
+}
+array1();
