@@ -1,4 +1,4 @@
-var arr1=[1,2,2,3,7,4,5,2,9,1];
+var arr1=[3,2,2,3,7,3,5,3,9,1];
 var count=0;
 var temp=1;
 
@@ -19,7 +19,7 @@ temp=count;
 count=0;
 }
 
-        console.log(frequentelement1);
+        console.log("Most frequent item of an array is " +frequentelement1);
 
         
     

@@ -7,5 +7,5 @@ for(let i=0;i<arr1.length;i++)
     sum=sum+sq;
 
 }
-console.log(sum);
+console.log("Sum of squares of the elements of an array is " +sum);
 
