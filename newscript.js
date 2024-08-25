@@ -9,7 +9,7 @@ let b=1;
 }
 let car=new Object()
 car.name='Alto'
-car.colour='red'
+car.colour='blue'
 console.log(car2);
 function display(fname)
 {
@@ -39,7 +39,7 @@ console.log('Value is greater than zero');
 }
 else{
 
-    console.log('Value is less than zero');
+    console.log('Value is less than 0');
 
 }
 for( let i=0;i<10;i++)
